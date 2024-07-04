@@ -1,0 +1,2 @@
+/usr/bin/ar qc libexpressions_lib.a CMakeFiles/expressions_lib.dir/src/complex.cpp.o CMakeFiles/expressions_lib.dir/src/expression.cpp.o CMakeFiles/expressions_lib.dir/src/main.cpp.o
+/usr/bin/ranlib libexpressions_lib.a

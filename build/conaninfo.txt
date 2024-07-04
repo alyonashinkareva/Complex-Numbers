@@ -1,0 +1,42 @@
+[settings]
+    arch=armv8
+    build_type=Debug
+    compiler=apple-clang
+    compiler.cppstd=20
+    compiler.libcxx=libc++
+    compiler.version=14.0
+    os=Macos
+
+[requires]
+    catch2/3.Y.Z
+
+[options]
+
+
+[full_settings]
+    arch=armv8
+    arch_build=armv8
+    build_type=Debug
+    compiler=apple-clang
+    compiler.cppstd=20
+    compiler.libcxx=libc++
+    compiler.version=14.0
+    os=Macos
+    os_build=Macos
+
+[full_requires]
+    catch2/3.3.2:ba61653acba7f336b431d30962c96bae7bd2519f
+
+[full_options]
+    catch2:console_width=80
+    catch2:default_reporter=None
+    catch2:fPIC=True
+    catch2:no_posix_signals=False
+    catch2:shared=False
+    catch2:with_prefix=False
+
+[recipe_hash]
+
+
+[env]
+

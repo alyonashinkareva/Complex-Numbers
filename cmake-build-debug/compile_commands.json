@@ -1,0 +1,27 @@
+[
+{
+  "directory": "/Users/alyonashinkareva/Desktop/cpp/complex-alyoshinkkaa/cmake-build-debug",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -I/Users/alyonashinkareva/Desktop/cpp/complex-alyoshinkkaa/include -g -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.4 -fcolor-diagnostics -std=gnu++20 -o CMakeFiles/expressions_lib.dir/src/complex.cpp.o -c /Users/alyonashinkareva/Desktop/cpp/complex-alyoshinkkaa/src/complex.cpp",
+  "file": "/Users/alyonashinkareva/Desktop/cpp/complex-alyoshinkkaa/src/complex.cpp"
+},
+{
+  "directory": "/Users/alyonashinkareva/Desktop/cpp/complex-alyoshinkkaa/cmake-build-debug",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -I/Users/alyonashinkareva/Desktop/cpp/complex-alyoshinkkaa/include -g -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.4 -fcolor-diagnostics -std=gnu++20 -o CMakeFiles/expressions_lib.dir/src/expression.cpp.o -c /Users/alyonashinkareva/Desktop/cpp/complex-alyoshinkkaa/src/expression.cpp",
+  "file": "/Users/alyonashinkareva/Desktop/cpp/complex-alyoshinkkaa/src/expression.cpp"
+},
+{
+  "directory": "/Users/alyonashinkareva/Desktop/cpp/complex-alyoshinkkaa/cmake-build-debug",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -I/Users/alyonashinkareva/Desktop/cpp/complex-alyoshinkkaa/include -g -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.4 -fcolor-diagnostics -std=gnu++20 -o CMakeFiles/expressions_lib.dir/src/main.cpp.o -c /Users/alyonashinkareva/Desktop/cpp/complex-alyoshinkkaa/src/main.cpp",
+  "file": "/Users/alyonashinkareva/Desktop/cpp/complex-alyoshinkkaa/src/main.cpp"
+},
+{
+  "directory": "/Users/alyonashinkareva/Desktop/cpp/complex-alyoshinkkaa/cmake-build-debug",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -I/Users/alyonashinkareva/Desktop/cpp/complex-alyoshinkkaa/include -g -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.4 -fcolor-diagnostics -std=gnu++20 -o CMakeFiles/expressions.dir/src/main.cpp.o -c /Users/alyonashinkareva/Desktop/cpp/complex-alyoshinkkaa/src/main.cpp",
+  "file": "/Users/alyonashinkareva/Desktop/cpp/complex-alyoshinkkaa/src/main.cpp"
+},
+{
+  "directory": "/Users/alyonashinkareva/Desktop/cpp/complex-alyoshinkkaa/cmake-build-debug",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -I/Users/alyonashinkareva/Desktop/cpp/complex-alyoshinkkaa/include -g -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.4 -fcolor-diagnostics -std=gnu++20 -o CMakeFiles/expressions.dir/src/expression.cpp.o -c /Users/alyonashinkareva/Desktop/cpp/complex-alyoshinkkaa/src/expression.cpp",
+  "file": "/Users/alyonashinkareva/Desktop/cpp/complex-alyoshinkkaa/src/expression.cpp"
+}
+]

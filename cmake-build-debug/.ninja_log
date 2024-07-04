@@ -1,0 +1,12 @@
+# ninja log v5
+875	980	1688030203473449508	tests	ad0357fc13690881
+297	314	1686583743895177000	libexpressions_lib.a	513885994daaea8e
+2	508	1690547938847125986	libraries/Expression/CMakeFiles/Expression.dir/src/complex.cpp.o	d56290cb29bf795e
+0	554	1690547938895641712	libraries/Expression/CMakeFiles/Expression.dir/src/Expression.cpp.o	c07fab594e7e6cd0
+554	598	1690547938943280000	libraries/Expression/libExpression.a	edb2a5dbdce06107
+2	672	1690547939013168268	libraries/Expression/CMakeFiles/tests.dir/tests/tests.cpp.o	a34e6e87f7449b90
+672	872	1690547939216015122	libraries/Expression/tests	2e7398246a3cdd76
+3	543	1690547985093501055	libraries/Expression/CMakeFiles/tests.dir/tests/tests.cpp.o	a34e6e87f7449b90
+544	663	1690547985214962831	libraries/Expression/tests	2e7398246a3cdd76
+9	506	1690547992373922525	libraries/Expression/CMakeFiles/tests.dir/tests/tests.cpp.o	a34e6e87f7449b90
+506	580	1690547992449812031	libraries/Expression/tests	2e7398246a3cdd76

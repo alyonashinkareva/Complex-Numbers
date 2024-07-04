@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/Users/alyonashinkareva/Desktop/cpp/complex-alyoshinkkaa/build",
+  "command": "/usr/bin/clang++  -I/Users/alyonashinkareva/Desktop/cpp/complex-alyoshinkkaa/include -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.4 -o CMakeFiles/expressions.dir/libraries/Expression/src/expression.cpp.o -c /Users/alyonashinkareva/Desktop/cpp/complex-alyoshinkkaa/libraries/Expression/src/expression.cpp",
+  "file": "/Users/alyonashinkareva/Desktop/cpp/complex-alyoshinkkaa/libraries/Expression/src/expression.cpp",
+  "output": "CMakeFiles/expressions.dir/libraries/Expression/src/expression.cpp.o"
+}
+]

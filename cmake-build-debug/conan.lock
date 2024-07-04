@@ -1,0 +1,24 @@
+{
+ "graph_lock": {
+  "nodes": {
+   "0": {
+    "options": "catch2:console_width=80\ncatch2:default_reporter=None\ncatch2:fPIC=True\ncatch2:no_posix_signals=False\ncatch2:shared=False\ncatch2:with_prefix=False",
+    "requires": [
+     "1"
+    ],
+    "path": "conanfile.txt",
+    "context": "host"
+   },
+   "1": {
+    "ref": "catch2/3.3.2",
+    "options": "console_width=80\ndefault_reporter=None\nfPIC=True\nno_posix_signals=False\nshared=False\nwith_prefix=False",
+    "package_id": "ba61653acba7f336b431d30962c96bae7bd2519f",
+    "prev": "0",
+    "context": "host"
+   }
+  },
+  "revisions_enabled": false
+ },
+ "version": "0.4",
+ "profile_host": "[settings]\narch=armv8\narch_build=armv8\nbuild_type=Debug\ncompiler=apple-clang\ncompiler.cppstd=20\ncompiler.libcxx=libc++\ncompiler.version=14.0\nos=Macos\nos_build=Macos\n[options]\n[build_requires]\n[env]\n"
+}

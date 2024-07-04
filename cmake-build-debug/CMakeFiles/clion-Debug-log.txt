@@ -1,0 +1,20 @@
+/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/Applications/CLion.app/Contents/bin/ninja/mac/ninja -G Ninja -S "/Users/alyonashinkareva/Desktop/desktop/ct itmo/cpp/complex-alyoshinkkaa" -B "/Users/alyonashinkareva/Desktop/desktop/ct itmo/cpp/complex-alyoshinkkaa/cmake-build-debug"
+-- The CXX compiler identification is AppleClang 15.0.0.15000100
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /Library/Developer/CommandLineTools/usr/bin/c++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- TESTS_BUILD_TYPE 
+-- Conan: checking conan executable
+-- Conan: Found program /opt/homebrew/bin/conan
+CMake Error at cmake-build-debug/conan.cmake:929 (message):
+  Conan --version failed='1'
+Call Stack (most recent call first):
+  cmake-build-debug/conan.cmake:549 (conan_check)
+  CMakeLists.txt:54 (conan_cmake_install)
+
+
+-- Configuring incomplete, errors occurred!
+See also "/Users/alyonashinkareva/Desktop/desktop/ct itmo/cpp/complex-alyoshinkkaa/cmake-build-debug/CMakeFiles/CMakeOutput.log".
+See also "/Users/alyonashinkareva/Desktop/desktop/ct itmo/cpp/complex-alyoshinkkaa/cmake-build-debug/CMakeFiles/CMakeError.log".
